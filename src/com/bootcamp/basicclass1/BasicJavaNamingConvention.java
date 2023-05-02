@@ -6,6 +6,4 @@ public class BasicJavaNamingConvention {
 	String lastName = "Dahal";
 	String middleName = "Pd";
 	int age = 23;
-	
-	
 }
